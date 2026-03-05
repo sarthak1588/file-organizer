@@ -1,17 +1,17 @@
-# 📂 File Organizer
+# File Organizer
 
 A simple Python script that automatically organizes files in a folder by their file type.
 
 ---
 
-## 📖 Overview
+## Overview
 
 File Organizer is a Python utility that scans a directory and sorts files into categorized folders based on their extensions.
 It helps keep folders clean and organized by automatically separating files like images, documents, videos, and audio.
 
 ---
 
-## ✨ Features
+## Features
 
 * Automatically detects file types
 * Organizes files into categorized folders
@@ -21,7 +21,7 @@ It helps keep folders clean and organized by automatically separating files like
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * Python 3
 * `os` module
@@ -29,7 +29,7 @@ It helps keep folders clean and organized by automatically separating files like
 
 ---
 
-## 📁 File Categories
+## File Categories
 
 The script organizes files into folders such as:
 
@@ -42,7 +42,7 @@ The script organizes files into folders such as:
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. The script scans all files in the target directory.
 2. It checks the extension of each file.
@@ -66,7 +66,7 @@ Videos/video.mp4
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 Clone the repository:
 
@@ -82,13 +82,13 @@ python file_organizer.py
 
 ---
 
-## 💡 Example Use Case
+## Example Use Case
 
 If you download many files into one folder, running this script will automatically organize them into different categories.
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Add a graphical user interface (GUI)
 * Allow users to define custom categories
@@ -97,7 +97,7 @@ If you download many files into one folder, running this script will automatical
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Sarthak Semwal**
 
